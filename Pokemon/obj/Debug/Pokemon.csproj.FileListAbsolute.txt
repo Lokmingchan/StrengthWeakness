@@ -1,0 +1,5 @@
+C:\Inetpub\wwwroot\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Pokemon\Pokemon\bin\Pokemon.dll
+C:\Inetpub\wwwroot\Pokemon\Pokemon\bin\Pokemon.pdb
+C:\Inetpub\wwwroot\Pokemon\Pokemon\obj\Debug\Pokemon.dll
+C:\Inetpub\wwwroot\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
